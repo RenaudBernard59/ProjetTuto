@@ -6,3 +6,7 @@ Have 3 developers :
 * Renaud
 * David
 * Gregoire
+
+## Project presentaton
+
+## Project development
